@@ -1,0 +1,32 @@
+.bg-1
+{
+background-color: blueviolet;
+
+}
+.bg-2
+{
+background-color: yellow;
+}
+.bg-3
+{
+    background-color: aqua;
+}
+.bg-4
+{
+    background-color: grey;
+    color: white;
+}
+.bg-5
+{
+    background-color: blue;
+    color: red;
+}
+a
+{
+    color: yellowgreen;
+}
+div
+{
+padding-top: 30px;
+padding-bottom: 25px;
+}
